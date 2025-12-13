@@ -1,4 +1,4 @@
-### What this code does
+### Pet Registry with Inheritance and Polymorphism
 
 * Base class `Pet` (intentionally incomplete to teach concepts)
 * Classes `Dog` and `Cat` that inherit from `Pet`
